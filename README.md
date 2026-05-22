@@ -1,4 +1,4 @@
-## Project 2 — Data Lakehouse (Capstone)
+## Medical Appointment Lakehouse
 
 ### Overview
 Implements a dimensional Data Lakehouse using the Databricks
